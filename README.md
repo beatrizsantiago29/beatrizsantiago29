@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hello, I'm Ana Santiago
 
-<!--
-**anasantiago29/anasantiago29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Sobre mim
 
-Here are some ideas to get you started:
+- 💻 Estudante de Programação.
+- 🎓 Cursando Ciência da Computação na UFC de Quixadá.
+- 🌱 Aberta a novos aprendizados... 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Linguagens: 
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,java)](https://skillicons.dev)
+
+## 🗄️ Bancos de Dados: 
+[![My Skills](https://skillicons.dev/icons?i=postgresql,sqlite,mysql)](https://skillicons.dev)
+## ⚙️ Ferramentas:
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,git)](https://skillicons.dev)<br><br>
+
+## 📫 Entre em contato!
+- E-mail: anabsantiago0@gmail.com
+- Linkedin: [Ana Santiago](https://www.linkedin.com/in/ana-santiago-8673802a7/)
