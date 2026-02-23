@@ -16,4 +16,4 @@
 
 ## 📫 Entre em contato!
 - E-mail: anabsantiago0@gmail.com
-- Linkedin: [Beatriz Santiago](https://www.linkedin.com/in/ana-santiago-8673802a7/)
+- Linkedin: [Beatriz Santiago](https://www.linkedin.com/in/beatriz-santiago-8673802a7/)
