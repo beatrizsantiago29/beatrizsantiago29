@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Ana Santiago
+# 👋 Hello, I'm Beatriz Santiago
 
 ## 💼 Sobre mim
 
@@ -16,4 +16,4 @@
 
 ## 📫 Entre em contato!
 - E-mail: anabsantiago0@gmail.com
-- Linkedin: [Ana Santiago](https://www.linkedin.com/in/ana-santiago-8673802a7/)
+- Linkedin: [Beatriz Santiago](https://www.linkedin.com/in/ana-santiago-8673802a7/)
