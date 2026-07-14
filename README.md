@@ -6,13 +6,14 @@
 - 🎓 Cursando Ciência da Computação na UFC de Quixadá.
 - 🌱 Aberta a novos aprendizados... 
 
-## 👨‍💻 Linguagens: 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,java)](https://skillicons.dev)
+## 👨‍💻 Linguagens
+[![My Skills](https://skillicons.dev/icons?i=javascript,cpp,c,python,java,php)](https://skillicons.dev)
 
-## 🗄️ Bancos de Dados: 
+## 🗄️ Bancos de Dados
 [![My Skills](https://skillicons.dev/icons?i=postgresql,sqlite,mysql)](https://skillicons.dev)
-## ⚙️ Ferramentas:
-[![My Skills](https://skillicons.dev/icons?i=vscode,github,git)](https://skillicons.dev)<br><br>
+
+## ⚙️ Ferramentas e Frameworks
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,git,fastapi)](https://skillicons.dev)<br><br>
 
 ## 📫 Entre em contato!
 - E-mail: anabsantiago0@gmail.com
